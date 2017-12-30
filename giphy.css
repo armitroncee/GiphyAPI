@@ -1,0 +1,39 @@
+* {
+	color: red;
+	font-weight: 900;
+	font-family: 'Bree Serif', serif;
+	font-size: 15px;
+}
+
+body {
+	background-image: url("images/background.jpg");
+}
+
+button {
+	margin: 20px;
+	background-color: teal;
+	color: white;
+}
+
+input {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.item {
+	float: left;
+	margin: 50px;
+
+}
+
+button:hover {
+	opacity: 0.5;
+}
+
+#addTeam:hover {
+	opacity: 0.5;
+}
+
+#gif {
+	margin-top: 20px;
+}
